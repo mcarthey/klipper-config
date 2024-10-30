@@ -4,7 +4,7 @@
 This README outlines the specifications, configurations, and components used for my 3D printer setup. Current settings are committed to serve as a backup before making further changes.
 
 ### Printer Model
-- **3D Printer**: Creality (specific model unspecified)
+- **3D Printer**: Creality Ender 3D Pro
 
 ### Controller Board
 - **MCU Board**: Creality V4.2.7
@@ -14,8 +14,8 @@ This README outlines the specifications, configurations, and components used for
   - **Notes**: Added direct drive for improved performance with flexible and standard filaments.
 
 ### Bed and Nozzle Specs
-- **Bed Dimensions**: (specific bed dimensions not provided)
-- **Nozzle Size**: (specific nozzle size not provided)
+- **Bed Dimensions**: 220x220
+- **Nozzle Size**: .04
 - **Z-Offset**: 1.15 (adjustable for first layer squish)
 
 ### Firmware
